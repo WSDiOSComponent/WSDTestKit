@@ -1,6 +1,6 @@
 {
   "name": "WSDKit",
-  "version": "1",
+  "version": "1.1",
   "summary": "A short description of WSDKit.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/WSDiOSComponent/WSDTestKit",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/WSDiOSComponent/WSDTestKit.git",
-    "tag": "1"
+    "tag": "1.1"
   },
   "platforms": {
     "ios": "8.0"
