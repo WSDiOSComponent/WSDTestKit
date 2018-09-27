@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WSDKit_Example' do
+  pod 'WSDKit', :path => '../'
+
+  target 'WSDKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
