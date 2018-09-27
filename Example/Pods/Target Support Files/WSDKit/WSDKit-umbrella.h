@@ -10,6 +10,14 @@
 #endif
 #endif
 
+#import "Decorator.h"
+#import "Entrypt.h"
+#import "NetWork.h"
+#import "Net_Decorator.h"
+#import "Net_Example.h"
+#import "Person.h"
+#import "Shoes.h"
+#import "Tshit.h"
 
 FOUNDATION_EXPORT double WSDKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char WSDKitVersionString[];

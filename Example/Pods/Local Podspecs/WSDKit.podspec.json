@@ -1,9 +1,9 @@
 {
   "name": "WSDKit",
-  "version": "0.1.0",
+  "version": "1",
   "summary": "A short description of WSDKit.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/wsd272535439/WSDKit",
+  "homepage": "https://github.com/WSDiOSComponent/WSDTestKit",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,8 @@
     "wsd272535439": "wangsidi@baichebao.com"
   },
   "source": {
-    "git": "https://github.com/wsd272535439/WSDKit.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/WSDiOSComponent/WSDTestKit.git",
+    "tag": "1"
   },
   "platforms": {
     "ios": "8.0"

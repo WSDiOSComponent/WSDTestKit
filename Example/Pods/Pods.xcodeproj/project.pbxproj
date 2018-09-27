@@ -7,16 +7,30 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1542F00EE3A03E23A7122691F2CCDF09 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = CF8CCEB4D409C6ED800378E70686542B /* ReplaceMe.m */; };
+		0B6C38B9CDC7875790252DDEFCEFFE2A /* Entrypt.h in Headers */ = {isa = PBXBuildFile; fileRef = 8CA268DC89FB2179A747115ADAACE54E /* Entrypt.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0E6BBB0293CA7760E48DAFB56B6734D6 /* Shoes.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F18E9DC144084DB09111D0AD6133573 /* Shoes.m */; };
+		17181CF08CE16C2A0A6B37A7D4A3BA70 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A162F1B68C8E34B16E407D58CD77956 /* ReplaceMe.m */; };
 		1BD2E96C446BB22634D4782858BACF53 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		206367728EB3414D0A7232BAF9D9641B /* NetWork.m in Sources */ = {isa = PBXBuildFile; fileRef = 596007D20D1688C7B1F658720D47E7BF /* NetWork.m */; };
 		36B1522359B8B49473AA41D606652626 /* Pods-WSDKit_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4580EAA671D3F9CF809222A45857B03D /* Pods-WSDKit_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3A36AE53CFF00B635DBCFBEB1642BB86 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
 		3BCFB5B0FFCE8A8B3ECBCFFE533886EC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		473E454E89405F108AC36099BC4CB6EB /* NetWork.h in Headers */ = {isa = PBXBuildFile; fileRef = 3690AF6B687CE80F6F00F8F45D05A463 /* NetWork.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		51328D047475593E95555B219EE8EC7C /* Pods-WSDKit_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AC4C7441618B20D7CCEBE97FF75CC1DE /* Pods-WSDKit_Example-dummy.m */; };
-		7F95A405733C0B62026C508CC8B02DF6 /* WSDKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F7D7B38F1157C6E02173656B494ACD5 /* WSDKit-dummy.m */; };
+		5C3C7F6A1AD67379D8D5FFCF3E19C59D /* Entrypt.m in Sources */ = {isa = PBXBuildFile; fileRef = F65854D4634B8C5521CCD350FC99F804 /* Entrypt.m */; };
+		6D809BB371CAC6ABF5E0EDF8C94A5676 /* Person.h in Headers */ = {isa = PBXBuildFile; fileRef = 57A6D609FC26EA6291CDD5E0722586B6 /* Person.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7FD5EDB23AA0CB4213A02D075019D987 /* Net_Example.m in Sources */ = {isa = PBXBuildFile; fileRef = 4120C412C8416D9E788FC4A8CDEA8EA0 /* Net_Example.m */; };
+		8F7DBA8ABB42F4307C84A3BA833694B0 /* Net_Example.h in Headers */ = {isa = PBXBuildFile; fileRef = 381DCDBF0D6FE41DDED918CC72B86E92 /* Net_Example.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A4DE7FBD4528EAF718AF82DF2C5A59B6 /* Pods-WSDKit_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 75BFCFA9795E2C4CE86D092F89360249 /* Pods-WSDKit_Tests-dummy.m */; };
-		A6FF2443285EFC8B8908101498C11C8C /* WSDKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 109A41BB5CD700F637DC1F2BDB9FA0A4 /* WSDKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		AAB8DC168134CF6407EC6D7AE72BF677 /* Pods-WSDKit_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 668EA4B23C3E8CC7252F676CFB9775FB /* Pods-WSDKit_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		ADCC5EA2ECFEB133CBFC750CAE6B1FFA /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 19C3ACBA02ED8456D201BA32EADDF141 /* Person.m */; };
+		BA823C6E0CE58F6BBC42DE5A04465DE3 /* Decorator.h in Headers */ = {isa = PBXBuildFile; fileRef = 58E6DEDE538FE7A6DA3DB5933A9B3866 /* Decorator.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D78D28BB8DDDC1F861D59D49A4A184B1 /* WSDKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 566A41AB5F6BA9E56DF18EDDCDF63790 /* WSDKit-dummy.m */; };
+		D84C99D39752CD284FE0DC9D3D460A98 /* Tshit.m in Sources */ = {isa = PBXBuildFile; fileRef = F4B9D14C5F896AFBACB9CBA466C0BDE0 /* Tshit.m */; };
+		DA24A507FA50F3399854017820B2CF18 /* Shoes.h in Headers */ = {isa = PBXBuildFile; fileRef = 1AC168D3D86E83170058256745C410B8 /* Shoes.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F52CF5B7221168011302EAF8A94582AA /* Tshit.h in Headers */ = {isa = PBXBuildFile; fileRef = F55E2F88CAE42F09CCC623634BFBE140 /* Tshit.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FD5D5A53432EE6E3CECFCEA623795CED /* WSDKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9E90EE8B9F466B62B7735A05688037B6 /* WSDKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FE3F7BA6D776FC08E21CD85BFBE698C7 /* Net_Decorator.h in Headers */ = {isa = PBXBuildFile; fileRef = C194F76FCCA40480E5D47D3C95E20AE3 /* Net_Decorator.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,41 +51,55 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		00AA039EC99228E28851B34D2A347FE4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		01707FE7EAFBAA1071FDB227F2FC122E /* Pods-WSDKit_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WSDKit_Tests-resources.sh"; sourceTree = "<group>"; };
 		0C0AB78639D2C8D3A58E48CD954D923F /* Pods-WSDKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WSDKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		0D06123C6CD5BDC433EB11F40A4E7CA3 /* Pods-WSDKit_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WSDKit_Example-resources.sh"; sourceTree = "<group>"; };
-		109A41BB5CD700F637DC1F2BDB9FA0A4 /* WSDKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "WSDKit-umbrella.h"; sourceTree = "<group>"; };
-		177A176354AD5B09FC9747584B2C823B /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2883D2B3CAF1C77891BB2F51709E661E /* WSDKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "WSDKit-prefix.pch"; sourceTree = "<group>"; };
-		2F7D7B38F1157C6E02173656B494ACD5 /* WSDKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "WSDKit-dummy.m"; sourceTree = "<group>"; };
+		19C3ACBA02ED8456D201BA32EADDF141 /* Person.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
+		1AC168D3D86E83170058256745C410B8 /* Shoes.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Shoes.h; sourceTree = "<group>"; };
+		3690AF6B687CE80F6F00F8F45D05A463 /* NetWork.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = NetWork.h; sourceTree = "<group>"; };
+		381DCDBF0D6FE41DDED918CC72B86E92 /* Net_Example.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Net_Example.h; sourceTree = "<group>"; };
+		3A162F1B68C8E34B16E407D58CD77956 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = WSDKit/Classes/ReplaceMe.m; sourceTree = "<group>"; };
+		4120C412C8416D9E788FC4A8CDEA8EA0 /* Net_Example.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = Net_Example.m; sourceTree = "<group>"; };
 		4217E00C34CC4480C7417683D6030AF9 /* Pods-WSDKit_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-WSDKit_Tests.modulemap"; sourceTree = "<group>"; };
 		4580EAA671D3F9CF809222A45857B03D /* Pods-WSDKit_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-WSDKit_Tests-umbrella.h"; sourceTree = "<group>"; };
+		552C6CAEF5C45C3303345DE9329DE7EE /* WSDKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = WSDKit.xcconfig; sourceTree = "<group>"; };
+		566A41AB5F6BA9E56DF18EDDCDF63790 /* WSDKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "WSDKit-dummy.m"; sourceTree = "<group>"; };
+		57A6D609FC26EA6291CDD5E0722586B6 /* Person.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		58E6DEDE538FE7A6DA3DB5933A9B3866 /* Decorator.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Decorator.h; sourceTree = "<group>"; };
+		596007D20D1688C7B1F658720D47E7BF /* NetWork.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = NetWork.m; sourceTree = "<group>"; };
 		5B7564AA063E7A28AFD01FCA055D999C /* Pods-WSDKit_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-WSDKit_Example.modulemap"; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		668EA4B23C3E8CC7252F676CFB9775FB /* Pods-WSDKit_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-WSDKit_Example-umbrella.h"; sourceTree = "<group>"; };
-		688EF5EE9888653AC370B5D6FE827706 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		6D36207453E3FC58D95D1D0B33A6DFC9 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		694813D3F3F099D0B3FD6AE8D52E6DC9 /* WSDKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "WSDKit-prefix.pch"; sourceTree = "<group>"; };
+		6D8B27DE1411187259F40CDB6097899A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		6E4D185E6D2774E0D754A2BB2AE97F1C /* Pods_WSDKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_WSDKit_Example.framework; path = "Pods-WSDKit_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6F18E9DC144084DB09111D0AD6133573 /* Shoes.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = Shoes.m; sourceTree = "<group>"; };
 		7115C93FD8415DB51AB2ED0FA7E2DBBA /* Pods_WSDKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_WSDKit_Tests.framework; path = "Pods-WSDKit_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7377CE216AD76BCDF9E929FFE3968FC9 /* Pods-WSDKit_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-WSDKit_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		75BFCFA9795E2C4CE86D092F89360249 /* Pods-WSDKit_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-WSDKit_Tests-dummy.m"; sourceTree = "<group>"; };
-		7B7713402276BA24FE9B263AC459D2A0 /* WSDKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = WSDKit.modulemap; sourceTree = "<group>"; };
 		8490A5DC13BB8308F19F323B1D9548F5 /* Pods-WSDKit_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-WSDKit_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		8D8DB7F0B3F05A170993947A9E411330 /* WSDKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = WSDKit.xcconfig; sourceTree = "<group>"; };
+		8CA268DC89FB2179A747115ADAACE54E /* Entrypt.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Entrypt.h; sourceTree = "<group>"; };
 		8F0AAF86BE6A5C486DCB38FD955A26CD /* WSDKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = WSDKit.framework; path = WSDKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		92FCE1044C7291FA4EB663FAD7F125B8 /* Pods-WSDKit_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-WSDKit_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9BEEB468E40C94E68B77B422632EB34F /* WSDKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = WSDKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9E90EE8B9F466B62B7735A05688037B6 /* WSDKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "WSDKit-umbrella.h"; sourceTree = "<group>"; };
 		AA94547D8E973B4F6D22F9A14BBA81B2 /* Pods-WSDKit_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-WSDKit_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		AC4C7441618B20D7CCEBE97FF75CC1DE /* Pods-WSDKit_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-WSDKit_Example-dummy.m"; sourceTree = "<group>"; };
+		C145796122485AD80B2F1A52A0272283 /* WSDKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = WSDKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		C194F76FCCA40480E5D47D3C95E20AE3 /* Net_Decorator.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Net_Decorator.h; sourceTree = "<group>"; };
 		C99E535711F125117326B7A66D601F35 /* Pods-WSDKit_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WSDKit_Example-frameworks.sh"; sourceTree = "<group>"; };
 		CB35945F968EA69A77D1FF9EA638606E /* Pods-WSDKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WSDKit_Example.release.xcconfig"; sourceTree = "<group>"; };
 		CDD0B3EA31E04224837B321635BBB749 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CF8CCEB4D409C6ED800378E70686542B /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = WSDKit/Classes/ReplaceMe.m; sourceTree = "<group>"; };
 		E1C42F9811DED3539C58251DD3CEE3D4 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E4A0971D0ADD6A8DECA44ACC90068FA7 /* WSDKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = WSDKit.modulemap; sourceTree = "<group>"; };
 		E9EA392A678AE7E2C33DD0A2521B4310 /* Pods-WSDKit_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WSDKit_Tests-frameworks.sh"; sourceTree = "<group>"; };
+		F4B9D14C5F896AFBACB9CBA466C0BDE0 /* Tshit.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = Tshit.m; sourceTree = "<group>"; };
 		F4C2D7091BC5542E1956160BE8742F23 /* Pods-WSDKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WSDKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		F4C47D9E10A2062183A2BA00447D9FC6 /* Pods-WSDKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WSDKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		F55E2F88CAE42F09CCC623634BFBE140 /* Tshit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Tshit.h; sourceTree = "<group>"; };
+		F59AC7987C373A93E96EBD673D5CEB02 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F65854D4634B8C5521CCD350FC99F804 /* Entrypt.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = Entrypt.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,15 +130,33 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		2B7886CDE69BCC56DAC0B7CC98F86FAE /* WSDKit */ = {
+		0E30A109D2E343925C23EF238485F9B2 /* Mock_Net_Decrator */ = {
 			isa = PBXGroup;
 			children = (
-				CF8CCEB4D409C6ED800378E70686542B /* ReplaceMe.m */,
-				39B3B9190A6AF27676DDBE288F6DE2E6 /* Pod */,
-				7BEA8DD5751AC4509C703CBF13A5D388 /* Support Files */,
+				8CA268DC89FB2179A747115ADAACE54E /* Entrypt.h */,
+				F65854D4634B8C5521CCD350FC99F804 /* Entrypt.m */,
+				C194F76FCCA40480E5D47D3C95E20AE3 /* Net_Decorator.h */,
+				381DCDBF0D6FE41DDED918CC72B86E92 /* Net_Example.h */,
+				4120C412C8416D9E788FC4A8CDEA8EA0 /* Net_Example.m */,
+				3690AF6B687CE80F6F00F8F45D05A463 /* NetWork.h */,
+				596007D20D1688C7B1F658720D47E7BF /* NetWork.m */,
 			);
-			name = WSDKit;
-			path = ../..;
+			name = Mock_Net_Decrator;
+			path = Mock_Net_Decrator;
+			sourceTree = "<group>";
+		};
+		12C85B54EDBDE57C13005C8A3F3250C6 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				F59AC7987C373A93E96EBD673D5CEB02 /* Info.plist */,
+				E4A0971D0ADD6A8DECA44ACC90068FA7 /* WSDKit.modulemap */,
+				552C6CAEF5C45C3303345DE9329DE7EE /* WSDKit.xcconfig */,
+				566A41AB5F6BA9E56DF18EDDCDF63790 /* WSDKit-dummy.m */,
+				694813D3F3F099D0B3FD6AE8D52E6DC9 /* WSDKit-prefix.pch */,
+				9E90EE8B9F466B62B7735A05688037B6 /* WSDKit-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/WSDKit";
 			sourceTree = "<group>";
 		};
 		2D3CC3A04BD573337CC36C4B5DF76E03 /* Products */ = {
@@ -121,16 +167,6 @@
 				8F0AAF86BE6A5C486DCB38FD955A26CD /* WSDKit.framework */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		39B3B9190A6AF27676DDBE288F6DE2E6 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				6D36207453E3FC58D95D1D0B33A6DFC9 /* LICENSE */,
-				688EF5EE9888653AC370B5D6FE827706 /* README.md */,
-				9BEEB468E40C94E68B77B422632EB34F /* WSDKit.podspec */,
-			);
-			name = Pod;
 			sourceTree = "<group>";
 		};
 		5C5852A515D9D1F406A21A360697BCF2 /* Pods-WSDKit_Example */ = {
@@ -151,37 +187,15 @@
 			path = "Target Support Files/Pods-WSDKit_Example";
 			sourceTree = "<group>";
 		};
-		7BEA8DD5751AC4509C703CBF13A5D388 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				177A176354AD5B09FC9747584B2C823B /* Info.plist */,
-				7B7713402276BA24FE9B263AC459D2A0 /* WSDKit.modulemap */,
-				8D8DB7F0B3F05A170993947A9E411330 /* WSDKit.xcconfig */,
-				2F7D7B38F1157C6E02173656B494ACD5 /* WSDKit-dummy.m */,
-				2883D2B3CAF1C77891BB2F51709E661E /* WSDKit-prefix.pch */,
-				109A41BB5CD700F637DC1F2BDB9FA0A4 /* WSDKit-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/WSDKit";
-			sourceTree = "<group>";
-		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				7DFEA1C3EAB098EF2EF4F3513740F89B /* Development Pods */,
+				C0207615C13805CABB8AF9F85F0F2B6B /* Development Pods */,
 				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
 				2D3CC3A04BD573337CC36C4B5DF76E03 /* Products */,
 				BC02BA4C4E8ECD18B487E585380AD960 /* Targets Support Files */,
 			);
-			sourceTree = "<group>";
-		};
-		7DFEA1C3EAB098EF2EF4F3513740F89B /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				2B7886CDE69BCC56DAC0B7CC98F86FAE /* WSDKit */,
-			);
-			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		BC02BA4C4E8ECD18B487E585380AD960 /* Targets Support Files */ = {
@@ -199,6 +213,22 @@
 				D35AF013A5F0BAD4F32504907A52519E /* iOS */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		BC9307B8D60AEAEB318C5B8934BD53E7 /* Decorator */ = {
+			isa = PBXGroup;
+			children = (
+				58E6DEDE538FE7A6DA3DB5933A9B3866 /* Decorator.h */,
+				57A6D609FC26EA6291CDD5E0722586B6 /* Person.h */,
+				19C3ACBA02ED8456D201BA32EADDF141 /* Person.m */,
+				1AC168D3D86E83170058256745C410B8 /* Shoes.h */,
+				6F18E9DC144084DB09111D0AD6133573 /* Shoes.m */,
+				F55E2F88CAE42F09CCC623634BFBE140 /* Tshit.h */,
+				F4B9D14C5F896AFBACB9CBA466C0BDE0 /* Tshit.m */,
+				0E30A109D2E343925C23EF238485F9B2 /* Mock_Net_Decrator */,
+			);
+			name = Decorator;
+			path = WSDKit/Classes/Decorator;
 			sourceTree = "<group>";
 		};
 		BED91E21B99D2A0EB8CDC6A7539E2435 /* Pods-WSDKit_Tests */ = {
@@ -219,6 +249,14 @@
 			path = "Target Support Files/Pods-WSDKit_Tests";
 			sourceTree = "<group>";
 		};
+		C0207615C13805CABB8AF9F85F0F2B6B /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				D571F32F030EE5EFA0FA11CB4DBF5B46 /* WSDKit */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
 		D35AF013A5F0BAD4F32504907A52519E /* iOS */ = {
 			isa = PBXGroup;
 			children = (
@@ -227,17 +265,31 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
+		D571F32F030EE5EFA0FA11CB4DBF5B46 /* WSDKit */ = {
+			isa = PBXGroup;
+			children = (
+				3A162F1B68C8E34B16E407D58CD77956 /* ReplaceMe.m */,
+				BC9307B8D60AEAEB318C5B8934BD53E7 /* Decorator */,
+				E02391B375C8223E881489162DD61EF6 /* Pod */,
+				12C85B54EDBDE57C13005C8A3F3250C6 /* Support Files */,
+			);
+			name = WSDKit;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		E02391B375C8223E881489162DD61EF6 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				6D8B27DE1411187259F40CDB6097899A /* LICENSE */,
+				00AA039EC99228E28851B34D2A347FE4 /* README.md */,
+				C145796122485AD80B2F1A52A0272283 /* WSDKit.podspec */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		1526156B51C1214764AEF21F674AA416 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				A6FF2443285EFC8B8908101498C11C8C /* WSDKit-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		72FF9F6DFDB75065581A9F7A9EA0D49D /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -254,6 +306,22 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		E418F9061D2A820AFFB62B97DF1F5E0C /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BA823C6E0CE58F6BBC42DE5A04465DE3 /* Decorator.h in Headers */,
+				0B6C38B9CDC7875790252DDEFCEFFE2A /* Entrypt.h in Headers */,
+				FE3F7BA6D776FC08E21CD85BFBE698C7 /* Net_Decorator.h in Headers */,
+				8F7DBA8ABB42F4307C84A3BA833694B0 /* Net_Example.h in Headers */,
+				473E454E89405F108AC36099BC4CB6EB /* NetWork.h in Headers */,
+				6D809BB371CAC6ABF5E0EDF8C94A5676 /* Person.h in Headers */,
+				DA24A507FA50F3399854017820B2CF18 /* Shoes.h in Headers */,
+				F52CF5B7221168011302EAF8A94582AA /* Tshit.h in Headers */,
+				FD5D5A53432EE6E3CECFCEA623795CED /* WSDKit-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
@@ -261,9 +329,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F4330BC63C561A79594DC06BE4F33E60 /* Build configuration list for PBXNativeTarget "WSDKit" */;
 			buildPhases = (
-				CC7C8245008D0C8BB328D947244280FA /* Sources */,
+				D05A6D9C5716495129B9FAC03DDD0AA1 /* Sources */,
 				E0B55C40D1933117BA3FE9C18FFA1963 /* Frameworks */,
-				1526156B51C1214764AEF21F674AA416 /* Headers */,
+				E418F9061D2A820AFFB62B97DF1F5E0C /* Headers */,
 			);
 			buildRules = (
 			);
@@ -355,12 +423,18 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CC7C8245008D0C8BB328D947244280FA /* Sources */ = {
+		D05A6D9C5716495129B9FAC03DDD0AA1 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1542F00EE3A03E23A7122691F2CCDF09 /* ReplaceMe.m in Sources */,
-				7F95A405733C0B62026C508CC8B02DF6 /* WSDKit-dummy.m in Sources */,
+				5C3C7F6A1AD67379D8D5FFCF3E19C59D /* Entrypt.m in Sources */,
+				7FD5EDB23AA0CB4213A02D075019D987 /* Net_Example.m in Sources */,
+				206367728EB3414D0A7232BAF9D9641B /* NetWork.m in Sources */,
+				ADCC5EA2ECFEB133CBFC750CAE6B1FFA /* Person.m in Sources */,
+				17181CF08CE16C2A0A6B37A7D4A3BA70 /* ReplaceMe.m in Sources */,
+				0E6BBB0293CA7760E48DAFB56B6734D6 /* Shoes.m in Sources */,
+				D84C99D39752CD284FE0DC9D3D460A98 /* Tshit.m in Sources */,
+				D78D28BB8DDDC1F861D59D49A4A184B1 /* WSDKit-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -418,7 +492,7 @@
 		};
 		08B61EE4F22C2F31F0926C26D413C195 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8D8DB7F0B3F05A170993947A9E411330 /* WSDKit.xcconfig */;
+			baseConfigurationReference = 552C6CAEF5C45C3303345DE9329DE7EE /* WSDKit.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -636,7 +710,7 @@
 		};
 		C346FEEBBF390BB979EEBD6F7CC6E3B3 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8D8DB7F0B3F05A170993947A9E411330 /* WSDKit.xcconfig */;
+			baseConfigurationReference = 552C6CAEF5C45C3303345DE9329DE7EE /* WSDKit.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";

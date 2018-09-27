@@ -1,5 +1,5 @@
 PODS:
-  - WSDKit (0.1.0)
+  - WSDKit (1)
 
 DEPENDENCIES:
   - WSDKit (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  WSDKit: b6dd9412eb6bff7fa623ffb05a8410efd4a28508
+  WSDKit: bdf2e93c98f18f2d1649f0af090c1a230a12e652
 
 PODFILE CHECKSUM: ec8382fb4292daf97b1a71bed0c4c20ffc66d714
 
