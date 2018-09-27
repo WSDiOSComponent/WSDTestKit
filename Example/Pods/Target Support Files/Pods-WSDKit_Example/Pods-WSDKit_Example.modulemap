@@ -1,0 +1,6 @@
+framework module Pods_WSDKit_Example {
+  umbrella header "Pods-WSDKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

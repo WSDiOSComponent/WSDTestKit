@@ -1,0 +1,6 @@
+framework module WSDKit {
+  umbrella header "WSDKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

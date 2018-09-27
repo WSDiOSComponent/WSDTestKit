@@ -38,7 +38,7 @@
 
 /* Begin PBXFileReference section */
 		05F01131BC1889D4695186C3 /* Pods-WSDKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WSDKit_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WSDKit_Tests/Pods-WSDKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		09B2B5938B4C598FF774FDB5 /* WSDKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = WSDKit.podspec; path = ../WSDKit.podspec; sourceTree = "<group>"; };
+		09B2B5938B4C598FF774FDB5 /* WSDKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = WSDKit.podspec; path = ../WSDKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		2073AE1E02CE17F8B182027C /* Pods_WSDKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WSDKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		48ECF22FEB47C32B6F111D31 /* Pods-WSDKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WSDKit_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-WSDKit_Example/Pods-WSDKit_Example.release.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* WSDKit_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WSDKit_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -63,10 +63,10 @@
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B2A9BCBEF60BCD61B7700B5D /* Pods_WSDKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WSDKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		C30795EA4173310116A1D52E /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		C30795EA4173310116A1D52E /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		CF5BBE7DB1761872BB2BF2A1 /* Pods-WSDKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WSDKit_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WSDKit_Example/Pods-WSDKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		ED37651BDF5E7300E01B217A /* Pods-WSDKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WSDKit_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-WSDKit_Tests/Pods-WSDKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		F6F0C2D4B4F4D06B80D029A9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		F6F0C2D4B4F4D06B80D029A9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

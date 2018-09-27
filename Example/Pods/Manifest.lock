@@ -1,0 +1,16 @@
+PODS:
+  - WSDKit (0.1.0)
+
+DEPENDENCIES:
+  - WSDKit (from `../`)
+
+EXTERNAL SOURCES:
+  WSDKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WSDKit: b6dd9412eb6bff7fa623ffb05a8410efd4a28508
+
+PODFILE CHECKSUM: ec8382fb4292daf97b1a71bed0c4c20ffc66d714
+
+COCOAPODS: 1.5.0
